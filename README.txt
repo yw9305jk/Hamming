@@ -1,0 +1,1 @@
+Program must be loaded from console.
